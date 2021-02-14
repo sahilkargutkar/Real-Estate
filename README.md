@@ -1,17 +1,17 @@
-#Real Estate App
+# Real Estate App
 
 An App to search for your desired Home
 
 
 
-##How to Setup
+## How to Setup
 Type `npm start`in your terminal
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-##App Deployed on [Heroku](https://realestateappfor.herokuapp.com/)
+## App Deployed on [Heroku](https://realestateappfor.herokuapp.com/)
 
-##ScreenShot
+## ScreenShot
 
 
 
